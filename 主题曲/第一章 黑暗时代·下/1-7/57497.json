@@ -1,1 +1,1 @@
-{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"休谟斯","location":[1,3],"direction":"Right"}],"doc":{"title":"（测试用作业，可能能用）单人1-7","details":"功能上线测试使用"},"groups":[],"opers":[{"name":"休谟斯","skill":1,"skill_usage":0}]}
+{"stage_name":"main_01-07","minimum_required":"v4.0.0","doc":{"title":"（测试用作业，可能能用）单人1-7，更新标题","details":"功能上线测试使用233"},"opers":[{"name":"休谟斯","skill":1,"skill_usage":0}],"groups":[],"actions":[{"name":"休谟斯","location":[1,3],"direction":"Right","type":"Deploy"},{"type":"SpeedUp"}]}

@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"维什戴尔","location":[1,4],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-01 - 横冲直进","details":"自用刷经验"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

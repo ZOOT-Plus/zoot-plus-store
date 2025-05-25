@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp14","actions":[{"type":"Deploy","name":"凯尔希","location":[5,4],"direction":"Right"},{"type":"Deploy","name":"Mon3tr","location":[7,5],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP14 - 绝人之路","details":"2-60-7-M(null)"},"groups":[],"opers":[{"name":"凯尔希","skill":3,"skill_usage":1}]}
