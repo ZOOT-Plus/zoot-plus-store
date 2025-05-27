@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp09","actions":[{"type":"Deploy","name":"蕾缪安","direction":"Left","location":[5,3]},{"type":"SpeedUp"},{"type":"SkillUsage","skill_usage":1,"name":"蕾缪安","location":[5,3],"costs":16}],"doc":{"title":"VEC-SP09 - 风尘仆仆","details":"2403 可试试更低配\nBili@西也Seiya 欢迎关注"},"groups":[],"opers":[{"name":"蕾缪安","skill":2,"skill_usage":1}]}

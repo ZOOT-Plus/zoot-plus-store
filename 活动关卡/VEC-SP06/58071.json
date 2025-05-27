@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp06","actions":[{"type":"Deploy","name":"玛恩纳","location":[4,3],"direction":"Down"},{"type":"SpeedUp"},{"type":"Skill","costs":40,"name":"玛恩纳"}],"doc":{"title":"VEC-SP06 - 择人而噬","details":"2903 练度只要开大期间能打死树和生成的树人就行\nBili@西也Seiya 欢迎关注"},"groups":[],"opers":[{"name":"玛恩纳","skill":3,"skill_usage":0}]}
