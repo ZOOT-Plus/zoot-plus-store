@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","costs":26,"name":"维什戴尔","direction":"Up","location":[2,4]},{"type":"SkillDaemon"}],"doc":{"title":"VEC-01 - 横冲直进","details":"无脑刷分，任何人可用 2025活动"},"groups":[],"opers":[{"skill_usage":1,"name":"维什戴尔","skill":3}]}
