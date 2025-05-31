@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"能天使","direction":"Left","location":[4,2]}],"doc":{"title":"VEC-01 - 横冲直进","details":"自用 减防+加攻击攻速buff"},"groups":[],"opers":[{"name":"能天使","skill":3,"skill_usage":0}]}
