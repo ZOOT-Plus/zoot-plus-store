@@ -1,1 +1,1 @@
-{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[],"doc":{"title":"VEC-01 - 横冲直进","details":"VEC-01 - 横冲直进"},"groups":[],"opers":[{"name":"维什戴尔","skill_usage":1,"skill":3}]}
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"Skill","kills":5,"location":[2,4],"name":"维什戴尔"}],"doc":{"title":"VEC-01 - 横冲直进","details":"速刷"},"groups":[],"opers":[{"name":"维什戴尔","skill_usage":1,"skill":3}]}
