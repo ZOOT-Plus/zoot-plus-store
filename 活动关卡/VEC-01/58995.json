@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"维什戴尔","location":[3,4],"direction":"Up","costs":25},{"type":"Skill","name":"维什戴尔","location":[3,4],"costs":10}],"doc":{"title":"VEC-01 - 横冲直进","details":"自用"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
