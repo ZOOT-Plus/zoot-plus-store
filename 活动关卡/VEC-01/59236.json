@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"Deploy","name":"水月","direction":"Left","location":[5,3]},{"type":"Deploy","location":[4,2],"name":"阿米娅","direction":"Left"}],"doc":{"title":"VEC-01 - 横冲直进","details":"VEC-01 - 横冲直进"},"groups":[],"opers":[{"name":"水月","skill_usage":0,"skill":1},{"name":"阿米娅","skill":2,"skill_usage":0}]}

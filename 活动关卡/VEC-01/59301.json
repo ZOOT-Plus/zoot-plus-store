@@ -1,0 +1,1 @@
+{"stage_name":"act1break_01","minimum_required":"v4.0.0","doc":{"title":"VEC-01 - 横冲直进","details":"自用0721"},"opers":[],"groups":[],"actions":[{"type":"SpeedUp","costs":0},{"name":"维什戴尔","location":[4,2],"direction":"Left","type":"Deploy","costs":25},{"type":"Skill","name":"维什戴尔","location":[4,2],"kills":3}]}
