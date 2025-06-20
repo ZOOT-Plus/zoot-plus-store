@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"棘刺","location":[7,3],"direction":"Left"},{"type":"SkillDaemon"}],"doc":{"title":"生路 - BP-1 - 第一次接触","details":"生路 - BP-1 - 第一次接触"},"groups":[],"opers":[{"name":"棘刺","skill":3,"skill_usage":1}]}

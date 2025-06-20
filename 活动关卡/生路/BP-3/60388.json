@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_03","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[4,2],"name":"乌尔比安","direction":"Right"}],"doc":{"title":"生路 - BP-3 - 如海雪纷散","details":"生路 - BP-3 - 如海雪纷散"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}

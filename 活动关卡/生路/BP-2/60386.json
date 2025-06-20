@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_02","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"乌尔比安","location":[8,3],"direction":"Left"}],"doc":{"title":"生路 - BP-2 - 评议式迎接","details":"生路 - BP-2 - 评议式迎接"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}
