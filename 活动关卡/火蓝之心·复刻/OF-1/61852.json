@@ -1,0 +1,1 @@
+{"stage_name":"a003_01","minimum_required":"v4.0.0","doc":{"title":"羽毛笔 X模组 水蓝色黎明 任务1","details":"羽毛笔 X模组 水蓝色黎明 任务1"},"opers":[{"name":"羽毛笔","skill":1,"skill_usage":0,"requirements":{"level":50,"skill_level":7}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"羽毛笔","location":[4,3],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

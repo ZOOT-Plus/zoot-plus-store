@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act5bossrush_03","actions":[{"type":"Deploy","name":"新约能天使","direction":"Left","location":[6,5]},{"type":"Deploy","name":"玛恩纳","location":[6,2],"direction":"Left"}],"doc":{"title":"TN-3 - 幕间重影第一波刷分 新能源+玛头","details":"均2603满级模组"},"groups":[],"opers":[{"name":"新约能天使","skill":2,"skill_usage":0},{"name":"玛恩纳","skill":3,"skill_usage":0}]}
