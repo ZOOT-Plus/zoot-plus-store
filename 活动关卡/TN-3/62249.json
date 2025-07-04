@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act5bossrush_03","actions":[{"type":"Deploy","name":"乌尔比安","location":[4,1],"direction":"Down","costs":24},{"type":"Deploy","name":"新约能天使","location":[6,5],"direction":"Left","costs":13}],"doc":{"title":"TN-3 - 幕间重影","details":"TN-3 - 幕间重影"},"groups":[],"opers":[]}
