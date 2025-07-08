@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act19mini_03","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[2,2],"name":"乌尔比安","direction":"Right"}],"doc":{"title":"FM-3 - 求遐则失","details":"https://www.bilibili.com/video/BV1QwGnzREhi"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}
