@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_00-08","actions":[{"type":"Deploy","name":"阿斯卡纶","location":[2,3],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"序章 黑暗时代·上 - 0-8 - 狩猎","details":"序章 黑暗时代·上 - 0-8 - 狩猎"},"groups":[],"opers":[{"name":"阿斯卡纶","skill_usage":0,"skill":1}],"difficulty":3}
