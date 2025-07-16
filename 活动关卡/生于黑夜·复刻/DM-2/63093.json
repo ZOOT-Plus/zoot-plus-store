@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act9d0_02","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"维什戴尔","location":[4,4],"direction":"Left"}],"doc":{"title":"生于黑夜·复刻 - DM-2 - 偶然","details":"原作者：b站spider丿小蜘蛛，本作业作者：星意\n\n单核维什戴尔。"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
