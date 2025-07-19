@@ -1,0 +1,1 @@
+{"stage_name":"pro_d_2","minimum_required":"v4.0.0","doc":{"title":"身先士卒 - PR-D-2 - 猛攻","details":"身先士卒 - PR-D-2 - 猛攻"},"opers":[{"name":"伊内丝","skill":2,"requirements":{"skill_level":10,"module":-1}},{"name":"圣约送葬人","skill":3,"requirements":{"skill_level":10,"module":1}},{"name":"温蒂","skill":3,"requirements":{"skill_level":10}}],"groups":[],"actions":[],"version":3}
