@@ -1,0 +1,1 @@
+{"stage_name":"act44side_03","minimum_required":"v4.0.0","doc":{"title":"AT-3 - 夜逃通告","details":"AT-3 - 夜逃通告"},"opers":[{"name":"乌尔比安","skill":2,"requirements":{"skill_level":10,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[1,5],"direction":"Right","type":"Deploy"}],"version":3}

@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act44side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[7,3],"direction":"Down","name":"煌"},{"type":"SkillDaemon"}],"doc":{"title":"AT-1 - 极道作风","details":"json作者：landgranf"},"groups":[],"opers":[{"name":"煌","skill":2,"skill_usage":0}]}

@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act44side_tr02","actions":[{"type":"Deploy","name":"史都华德","direction":"Right","location":[4,3]},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"AT-TR-2 - 雪花屏","details":"需要跟着指引点剧情，MAA不会自动点\njson作者：萨拉托加\n作业交流群群号216314927，可蹲作业，有问题进群找我，作业站消息没提醒看不到"},"groups":[],"opers":[{"name":"史都华德","skill":1,"skill_usage":0}]}

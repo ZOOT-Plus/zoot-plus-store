@@ -1,0 +1,1 @@
+{"stage_name":"act44side_01","minimum_required":"v4.0.0","doc":{"title":"AT-1 - 极道作风","details":"AT-1 - 极道作风"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[7,4],"direction":"Down","type":"Deploy"}],"version":3}
