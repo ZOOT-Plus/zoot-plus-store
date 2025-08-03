@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_05","actions":[{"type":"Deploy","name":"棘刺","direction":"Left","location":[6,3]},{"type":"SpeedUp"},{"type":"Deploy","name":"遥","location":[8,2],"direction":"Left"},{"type":"SkillDaemon"}],"doc":{"title":"test","details":"test"},"groups":[],"opers":[{"name":"遥","skill":3,"skill_usage":1},{"name":"棘刺","skill":3,"skill_usage":1}]}

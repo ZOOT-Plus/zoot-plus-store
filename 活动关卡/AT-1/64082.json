@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act44side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[4,3],"direction":"Down","name":"娜仁图亚"},{"type":"Skill","location":[1,1]},{"type":"Skill","pre_delay":2500,"name":"娜仁图亚"}],"doc":{"title":"AT-1 - 极道作风","details":"AT-1 - 极道作风"},"groups":[],"opers":[{"name":"娜仁图亚","skill_usage":0,"skill":1}]}
