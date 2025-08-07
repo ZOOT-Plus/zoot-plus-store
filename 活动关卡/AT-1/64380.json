@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act44side_01","actions":[{"type":"Deploy","location":[7,4],"name":"乌尔比安","direction":"Left","costs":0},{"type":"SpeedUp"}],"doc":{"title":"AT-1 - 极道作风","details":"AT-1 - 极道作风"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0},{"name":"阿米娅","skill_usage":1,"skill":1}]}

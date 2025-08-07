@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act44side_05","actions":[{"type":"SpeedUp"},{"type":"Deploy","costs":0,"name":"阿斯卡纶","direction":"Left","location":[4,6]}],"doc":{"title":"AT-2 - 灵异特辑","details":"AT-2 - 灵异特辑"},"groups":[],"opers":[{"name":"阿米娅","skill":1,"skill_usage":1},{"name":"阿斯卡纶","skill":1,"skill_usage":0}]}
