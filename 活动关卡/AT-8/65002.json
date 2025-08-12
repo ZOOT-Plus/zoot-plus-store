@@ -1,0 +1,1 @@
+{"stage_name":"act44side_08","minimum_required":"v4.0.0","doc":{"title":"AT-8 - 逝川","details":"AT-8 - 逝川"},"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"维什戴尔","location":[10,1],"direction":"Right","type":"Deploy","costs":25},{"type":"Skill","location":[10,1]}],"version":3}
