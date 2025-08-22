@@ -1,1 +1,1 @@
-{"stage_name":"main_01-07","minimum_required":"v4.0.0","doc":{"title":"测试作业","details":"测试作业"},"opers":[{"name":"陈","skill":1,"skill_usage":0}],"groups":[],"actions":[{"name":"阿","location":[5,4],"direction":"Left","type":"Deploy","kills":500,"costs":0}],"version":3}
+{"stage_name":"main_01-07","minimum_required":"v4.0.0","doc":{"title":"测试作业","details":"测试作业"},"opers":[{"name":"陈","skill":1,"skill_usage":0,"requirements":{"module":1}}],"groups":[],"actions":[{"name":"阿","location":[5,4],"direction":"Left","type":"Deploy","kills":500,"costs":0}],"version":3}
