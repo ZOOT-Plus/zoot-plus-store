@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act35side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"煌","location":[4,5],"direction":"Up"},{"type":"SkillDaemon"}],"doc":{"title":"太阳甩在身后 - AS-1 - 节前热身","details":"阿米娅是吉祥物"},"groups":[],"opers":[{"name":"阿米娅","skill":1,"skill_usage":0},{"name":"煌","skill":2,"skill_usage":0}]}
