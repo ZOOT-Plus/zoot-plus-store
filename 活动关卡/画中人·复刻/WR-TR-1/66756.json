@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act16d5_tr01","actions":[{"type":"Deploy","name":"卡缇","location":[4,6],"direction":"Right","costs":20},{"type":"Deploy","name":"杰西卡","location":[4,5],"direction":"Right","costs":0}],"doc":{"title":"wr-tr-1","details":"wr-tr-1"},"groups":[],"opers":[]}
