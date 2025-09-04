@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"wk_melee_4","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"娜仁图亚","direction":"Left","location":[7,2]},{"type":"Skill","name":"娜仁图亚","location":[7,2]}],"doc":{"title":"货物运送 - CE-4 - 国际重犯押运 娜仁图亚单人","details":"原作者：一般路过作业人\n担心娜仁图亚撑不住可以额外带个奶"},"groups":[],"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":0}]}

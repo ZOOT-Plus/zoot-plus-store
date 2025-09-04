@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act45side_06","actions":[{"type":"Deploy","name":"维什戴尔","location":[5,4],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"SS-6 - 回声飘荡的大厅","details":"SS-6 - 回声飘荡的大厅"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
