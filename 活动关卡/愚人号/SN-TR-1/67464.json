@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act17side_tr01","actions":[{"type":"Deploy","name":"卡缇","location":[8,2],"direction":"Left"},{"type":"Skill","location":[9,4],"name":"泡普卡"}],"doc":{"title":"愚人号 - SN-TR-1 - 惩戒军前线基地","details":"原作者：一般路过作业人\njson作者：一般路过作业人\n别选自动编队\n自己估摸着搞的一个作业"},"groups":[],"opers":[]}
