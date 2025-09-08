@@ -1,0 +1,1 @@
+{"stage_name":"act41side_06","minimum_required":"v4.0.0","doc":{"title":"EA-6 - 失路人","details":"EA-6 - 失路人"},"opers":[],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"维什戴尔","location":[7,1],"direction":"Down","type":"Deploy"},{"type":"Skill","name":"维什戴尔","kills":6},{"type":"Skill","name":"维什戴尔","kills":25}],"version":3}
