@@ -1,0 +1,1 @@
+{"stage_name":"act45side_ex01","minimum_required":"v4.0.0","doc":{"title":"SS-EX-1 - 第一篇·糖果小屋","details":"SS-EX-1 - 第一篇·糖果小屋"},"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":2,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[2,4],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3,"difficulty":0}
