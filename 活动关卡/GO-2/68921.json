@@ -1,0 +1,1 @@
+{"stage_name":"act37side_02","minimum_required":"v4.0.0","doc":{"title":"GO-2 - 痼疾缠身","details":"GO-2 - 痼疾缠身"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":60,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[7,1],"direction":"Left","type":"Deploy"}],"version":3}

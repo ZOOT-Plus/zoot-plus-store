@@ -1,0 +1,1 @@
+{"stage_name":"act37side_01","minimum_required":"v4.0.0","doc":{"title":"GO-1 - 仇怨残余","details":"GO-1 - 仇怨残余"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":60,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[4,5],"direction":"Right","type":"Deploy"}],"version":3}

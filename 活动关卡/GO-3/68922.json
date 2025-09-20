@@ -1,0 +1,1 @@
+{"stage_name":"act37side_03","minimum_required":"v4.0.0","doc":{"title":"GO-3 - 议会公决","details":"GO-3 - 议会公决"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":60,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[1,1],"direction":"Right","type":"Deploy"}],"version":3}
