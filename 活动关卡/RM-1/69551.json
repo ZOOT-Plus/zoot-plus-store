@@ -1,0 +1,1 @@
+{"stage_name":"act1halfidle_01","minimum_required":"v4.0.0","doc":{"title":"RM-1 - 旧城遗址","details":"RM-1 - 旧城遗址"},"opers":[],"groups":[],"actions":[{"name":"澄闪","location":[5,6],"direction":"Down","type":"Deploy"}],"version":3}
