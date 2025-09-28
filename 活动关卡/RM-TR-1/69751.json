@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1halfidle_tr01","actions":[{"type":"Deploy","name":"阿米娅","direction":"Left","location":[5,3]},{"type":"Deploy","name":"克洛丝","location":[1,3],"direction":"Right"}],"doc":{"title":"RM-TR-1 - 荒地前哨","details":"自用"},"groups":[],"opers":[{"name":"阿米娅","skill":1,"skill_usage":0},{"name":"克洛丝","skill":1,"skill_usage":0}]}

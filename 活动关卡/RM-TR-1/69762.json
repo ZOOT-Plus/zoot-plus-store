@@ -1,0 +1,1 @@
+{"stage_name":"act1halfidle_tr01","minimum_required":"v4.0.0","doc":{"title":"RM-TR-1 - 荒地前哨","details":"挂机"},"opers":[{"name":"克洛丝"},{"name":"杰西卡"}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"克洛丝","location":[5,3],"direction":"Down","type":"Deploy"},{"name":"杰西卡","location":[1,3],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
