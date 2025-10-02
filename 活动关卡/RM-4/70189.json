@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1halfidle_04","actions":[{"type":"Deploy","name":"维什戴尔","location":[10,7],"direction":"Left"}],"doc":{"title":"RM-4 - 沉积河床","details":"RM-4 - 沉积河床"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

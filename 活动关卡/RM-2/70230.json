@@ -1,0 +1,1 @@
+{"stage_name":"act1halfidle_02","minimum_required":"v4.0.0","doc":{"title":"RM-2 - 风号峡谷","details":"RM-2 - 风号峡谷"},"opers":[],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"隐德来希","location":[11,4],"direction":"Down","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
