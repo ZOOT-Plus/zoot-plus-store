@@ -1,0 +1,1 @@
+{"stage_name":"a001_01","minimum_required":"v4.0.0","doc":{"title":"GT-1","details":"GT-1"},"opers":[{"name":"鸿雪","skill":3,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"鸿雪","location":[1,3],"direction":"Right","type":"Deploy"},{"name":"“打字机”","location":[2,4],"direction":"Up","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
