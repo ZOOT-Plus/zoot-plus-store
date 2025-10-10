@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"SpeedUp"},{"type":"Deploy","costs":20,"name":"丰川祥子","direction":"Right","location":[1,3]}],"doc":{"title":"第一章 黑暗时代·下 - 1-7 - 暴君","details":"刷信赖"},"groups":[],"opers":[{"name":"丰川祥子","skill":1,"skill_usage":0}],"difficulty":1}
