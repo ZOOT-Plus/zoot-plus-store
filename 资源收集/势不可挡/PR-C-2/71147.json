@@ -1,0 +1,1 @@
+{"stage_name":"pro_c_2","minimum_required":"v4.0.0","doc":{"title":"势不可挡 - PR-C-2 - 冲锋","details":"势不可挡 - PR-C-2 - 冲锋"},"opers":[{"name":"丰川祥子","skill":2,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"name":"丰川祥子","location":[3,4],"direction":"Right","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}
