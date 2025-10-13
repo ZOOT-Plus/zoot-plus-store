@@ -1,0 +1,1 @@
+{"stage_name":"a003_01","minimum_required":"v4.0.0","doc":{"title":"火蓝之心·复刻 - OF-1 - 火山制造（自用挂机）","details":"感觉太麻烦了直接自己上手挂会机，孩子们造价真便宜，只是想做点周任务而已：P"},"opers":[{"name":"山","skill":2,"skill_usage":2,"skill_times":1}],"groups":[],"actions":[{"name":"山","location":[6,3],"direction":"Down","type":"Deploy","costs":11},{"type":"SpeedUp","costs":2},{"type":"Skill","name":"山"}]}
