@@ -1,0 +1,1 @@
+{"stage_name":"a003_05","minimum_required":"v4.0.0","doc":{"title":"火蓝之心·复刻 - OF-5 - 别阻止我","details":"刷任务"},"opers":[{"name":"丰川祥子"}],"groups":[],"actions":[{"name":"丰川祥子","location":[10,3],"direction":"Left","type":"Deploy"},{"type":"SpeedUp"}],"version":3}
