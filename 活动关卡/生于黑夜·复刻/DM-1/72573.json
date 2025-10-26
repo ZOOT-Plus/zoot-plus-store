@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act9d0_01","actions":[{"type":"Deploy","location":[3,4],"name":"娜仁图亚","direction":"Right","costs":16},{"type":"SpeedUp","cost_changes":1},{"type":"SkillDaemon"}],"doc":{"title":" DM-1 娜仁图亚单挂","details":"290娜仁图亚 一技能专三无模组"},"groups":[],"opers":[{"skill_times":1,"name":"娜仁图亚","skill_usage":2,"skill":1}]}
