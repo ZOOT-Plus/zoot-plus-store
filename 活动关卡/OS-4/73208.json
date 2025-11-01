@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act46side_04","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[3,2],"name":"乌尔比安","direction":"Right"},{"type":"Deploy","name":"歌蕾蒂娅","location":[2,2],"direction":"Right"}],"doc":{"title":"OS-4 - 并蒂生","details":"2903"},"groups":[],"opers":[{"name":"歌蕾蒂娅","skill":1,"skill_usage":0},{"name":"乌尔比安","skill":2,"skill_usage":0}]}

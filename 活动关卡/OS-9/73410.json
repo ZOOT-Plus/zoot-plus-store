@@ -1,0 +1,1 @@
+{"stage_name":"act46side_09","minimum_required":"v4.0.0","doc":{"title":"OS-9 - 凛刃出匣 圣聆初雪单通","details":"测试中圣聆初雪为精二70级 无信赖 技能7级\n实际等级再低些也能用"},"opers":[{"name":"圣聆初雪","skill":2,"skill_usage":1}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"圣聆初雪","location":[6,5],"direction":"Up","type":"Deploy","costs":24,"doc":"部署圣聆初雪"},{"type":"SkillDaemon"}]}

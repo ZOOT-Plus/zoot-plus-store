@@ -1,0 +1,1 @@
+{"stage_name":"act46side_09","minimum_required":"v4.0.0","doc":{"title":"OS-9 - 凛刃出匣","details":"OS-9 - 凛刃出匣\n貘"},"opers":[{"name":"丰川祥子","skill":2,"requirements":{"skill_level":10,"module":2}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"丰川祥子","location":[2,4],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

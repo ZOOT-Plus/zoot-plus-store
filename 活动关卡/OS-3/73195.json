@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act46side_03","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[1,3],"name":"乌尔比安","direction":"Right"},{"type":"Deploy","location":[2,5],"name":"歌蕾蒂娅","direction":"Up"}],"doc":{"title":"OS-3 - 雪灌木中","details":"2903"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0},{"name":"歌蕾蒂娅","skill":1,"skill_usage":0}]}

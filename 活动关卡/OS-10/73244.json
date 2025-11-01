@@ -1,0 +1,1 @@
+{"stage_name":"act46side_10","minimum_required":"v4.0.0","doc":{"title":"OS-10 - 耶拉冈德在上","details":"OS-10 - 耶拉冈德在上"},"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"name":"维什戴尔","location":[8,5],"direction":"Right","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}

@@ -1,0 +1,1 @@
+{"stage_name":"act46side_03","minimum_required":"v4.0.0","doc":{"title":"OS-3 - 雪灌木中","details":"OS-3 - 雪灌木中"},"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":2,"skill_times":1,"requirements":{"level":60}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[5,3],"direction":"Down","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

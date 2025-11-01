@@ -1,0 +1,1 @@
+{"stage_name":"act46side_03","minimum_required":"v4.0.0","doc":{"title":"OS-3 - 雪灌木中","details":"OS-3 - 雪灌木中\n貘"},"opers":[{"name":"棘刺","skill":3,"skill_usage":1,"requirements":{"level":90,"skill_level":10,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"棘刺","location":[2,3],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

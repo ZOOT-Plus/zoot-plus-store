@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act46side_03","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[2,3],"direction":"Right","name":"丰川祥子"},{"type":"SkillDaemon"}],"doc":{"title":"OS-3 - 雪灌木中","details":"OS-3 - 雪灌木中"},"groups":[],"opers":[{"name":"丰川祥子","skill":2,"skill_usage":0}]}

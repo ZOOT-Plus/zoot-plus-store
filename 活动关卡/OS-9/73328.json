@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act46side_09","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[6,4],"name":"乌尔比安","direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"饼干组挂机丨OS-9 - 凛刃出匣","details":"原作者：紧急失控\n原视频：https://www.bilibili.com/video/BV1nv15BREU6"},"groups":[],"opers":[{"name":"乌尔比安","skill_usage":0,"skill":2}]}

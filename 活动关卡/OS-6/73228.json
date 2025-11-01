@@ -1,0 +1,1 @@
+{"stage_name":"act46side_06","minimum_required":"v4.0.0","doc":{"title":"OS-6 - 绿翡翠","details":"OS-6 - 绿翡翠\n貘"},"opers":[{"name":"棘刺","skill":3,"skill_usage":1,"requirements":{"level":90,"skill_level":10,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"棘刺","location":[5,6],"direction":"Up","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

@@ -1,0 +1,1 @@
+{"stage_name":"act46side_02","minimum_required":"v4.0.0","doc":{"title":"OS-2 - 甜蜜的邻人","details":"OS-2 - 甜蜜的邻人\n貘"},"opers":[{"name":"丰川祥子","skill":2,"skill_usage":0,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"丰川祥子","location":[1,5],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

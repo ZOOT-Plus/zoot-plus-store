@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act46side_02","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[2,5],"direction":"Right","name":"山"}],"doc":{"title":"OS-2 - 甜蜜的邻人","details":"2903"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}]}

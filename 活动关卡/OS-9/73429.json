@@ -1,0 +1,1 @@
+{"stage_name":"act46side_09","minimum_required":"v4.0.0","doc":{"title":"OS-9 - 凛刃出匣","details":"OS-9 - 凛刃出匣"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":60,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[6,4],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
