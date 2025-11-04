@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act21side_04","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[5,4],"direction":"Down","name":"乌尔比安","costs":24},{"type":"SkillDaemon"}],"doc":{"title":"叙拉古人 - IS-4 - 苦夜惊雷 乌尔比安单人","details":"乌尔比安2903 X三模"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}

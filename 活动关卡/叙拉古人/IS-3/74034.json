@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act21side_03","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[3,3],"name":"乌尔比安","direction":"Down","costs":24},{"type":"SkillDaemon"}],"doc":{"title":"叙拉古人 - IS-3 - 万箭所指 乌尔比安单人","details":"乌尔比安2903 二技能 测试已过"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}
