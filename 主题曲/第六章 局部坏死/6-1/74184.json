@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_06-01","actions":[{"type":"Deploy","name":"阿米娅","location":[1,1],"direction":"Up"},{"type":"SpeedUp"}],"doc":{"title":"第六章 局部坏死 - 6-1 - 僵局","details":"第六章 局部坏死 - 6-1 - 僵局"},"groups":[],"opers":[{"name":"阿米娅","skill":1,"skill_usage":0}],"difficulty":0}

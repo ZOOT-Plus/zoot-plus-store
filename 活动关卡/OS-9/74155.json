@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act46side_09","actions":[{"type":"Deploy","name":"圣聆初雪","direction":"Left","location":[6,5]},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"OS-9 - 凛刃出匣","details":"OS-9 - 凛刃出匣"},"groups":[],"opers":[{"name":"圣聆初雪","skill":2,"skill_usage":0}]}
