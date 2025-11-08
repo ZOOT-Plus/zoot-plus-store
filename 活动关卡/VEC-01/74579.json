@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"Deploy","location":[4,2],"name":"逻各斯","direction":"Left","costs":20}],"doc":{"title":"VEC-01 - 横冲直进","details":"VEC-01 - 横冲直进"},"groups":[],"opers":[{"name":"逻各斯","skill_usage":0,"skill":1}]}
