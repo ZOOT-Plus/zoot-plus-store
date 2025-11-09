@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act46side_ex06","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"荒芜拉普兰德","location":[6,4],"direction":"Left"}],"doc":{"title":"OS-EX-6 - 顺时耕作 气鹅鼎 艾雅法拉带加攻X模组","details":"BV1vh1SB5ER1"},"groups":[],"opers":[{"name":"荒芜拉普兰德","skill":3,"skill_usage":1},{"name":"艾雅法拉","skill":2,"skill_usage":0}],"difficulty":3}
