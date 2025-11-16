@@ -1,0 +1,1 @@
+{"stage_name":"pro_d_1","minimum_required":"v4.0.0","doc":{"title":"身先士卒 - PR-D-1 - 突破","details":"身先士卒 - PR-D-1 - 突破"},"opers":[{"name":"丰川祥子","skill":2,"requirements":{"level":90,"skill_level":10,"module":2}}],"groups":[],"actions":[{"type":"Deploy","name":"丰川祥子","direction":"Right","location":[1,2],"costs":31},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}
