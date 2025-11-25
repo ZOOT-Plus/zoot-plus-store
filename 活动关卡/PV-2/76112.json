@@ -1,0 +1,1 @@
+{"stage_name":"act38side_02","minimum_required":"v4.0.0","doc":{"title":"PV-2 - 择路","details":"饼干单人"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[3,4],"direction":"Up","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
