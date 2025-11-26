@@ -1,0 +1,1 @@
+{"stage_name":"act38side_07","minimum_required":"v4.0.0","doc":{"title":"PV-7 - 揭幕时刻","details":"PV-7 - 揭幕时刻"},"opers":[{"name":"圣聆初雪","skill":2,"requirements":{"level":90,"skill_level":10,"module":2}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"圣聆初雪","location":[9,5],"direction":"Down","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

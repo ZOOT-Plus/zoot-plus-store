@@ -1,0 +1,1 @@
+{"stage_name":"act38side_06","minimum_required":"v4.0.0","doc":{"title":"PV-6 - “复仇于我”","details":"PV-6 - “复仇于我”"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[10,4],"direction":"Down","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
