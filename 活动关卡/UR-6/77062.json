@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act47side_06","actions":[{"type":"Deploy","name":"丰川祥子","location":[4,3],"direction":"Right"},{"type":"Deploy","location":[5,3],"name":"圣聆初雪","direction":"Right"},{"type":"SpeedUp"}],"doc":{"title":"MFSN","details":"MFSN"},"groups":[],"opers":[{"name":"丰川祥子","skill":2,"skill_usage":0},{"name":"圣聆初雪","skill":2,"skill_usage":0}]}

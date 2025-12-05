@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act47side_tr01","actions":[{"type":"Deploy","name":"蚀清","direction":"Right","location":[2,4]},{"type":"Deploy","name":"末药","direction":"Right","location":[2,3]},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"UR-TR-1","details":"UR-TR-1"},"groups":[],"opers":[]}

@@ -1,0 +1,1 @@
+{"stage_name":"act47side_01","minimum_required":"v4.0.0","doc":{"title":"UR-1 - 嘈杂的天空","details":"UR-1 - 嘈杂的天空"},"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":2,"skill_times":1,"requirements":{"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[4,2],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

@@ -1,0 +1,1 @@
+{"stage_name":"act47side_02","minimum_required":"v4.0.0","doc":{"title":"UR-2 - 擅闯者","details":"UR-2 - 擅闯者"},"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":2,"skill_times":1,"requirements":{"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[6,4],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act47side_02","actions":[{"type":"Deploy","name":"丰川祥子","location":[6,5],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"UR-2 - 擅闯者","details":"UR-2 - 擅闯者"},"groups":[],"opers":[{"name":"丰川祥子","skill":2,"skill_usage":0}]}

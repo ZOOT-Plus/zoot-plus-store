@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act47side_01","actions":[{"type":"Deploy","name":"领主","location":[4,1],"direction":"Down"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"UR-1 - 嘈杂的天空","details":"UR-1 - 嘈杂的天空"},"groups":[{"name":"领主","opers":[{"name":"丰川祥子","skill":2,"skill_usage":0},{"name":"棘刺","skill":3,"skill_usage":1}]}],"opers":[]}

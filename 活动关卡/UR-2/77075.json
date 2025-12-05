@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act47side_02","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"棘刺","location":[7,5],"direction":"Left"},{"type":"SkillDaemon"}],"doc":{"title":"UR-2 - 擅闯者","details":"随便写的，棘刺放下去挂机就行了。\n不是满练有概率最后一波漏怪，随便补个什么打死应该就行吧（。"},"groups":[],"opers":[{"name":"棘刺","skill":3,"skill_usage":1}]}
