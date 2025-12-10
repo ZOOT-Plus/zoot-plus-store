@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act47side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[4,1],"direction":"Down","name":"娜仁图亚"},{"type":"SkillDaemon"}],"doc":{"title":"UR-1 - 嘈杂的天空（来源：b站低配挂机研讨会）","details":"助战借娜仁图亚就行，干员随便带"},"groups":[],"opers":[{"skill_times":1,"name":"娜仁图亚","skill_usage":2,"skill":1},{"name":"芬","skill":1,"skill_usage":0}]}
