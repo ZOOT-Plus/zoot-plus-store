@@ -1,0 +1,1 @@
+{"stage_name":"act39side_01","minimum_required":"v4.0.0","doc":{"title":"EP-1 - 倒悬苍白海上","details":"EP-1 - 倒悬苍白海上"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[4,5],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
