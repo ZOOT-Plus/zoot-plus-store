@@ -1,0 +1,1 @@
+{"stage_name":"act48side_01","minimum_required":"v4.0.0","doc":{"title":"ME-1 - 工作与时日","details":"攻略作者 https://space.bilibili.com/131454887\n自用 可以蹭低信赖干员"},"opers":[{"name":"山","skill":2,"skill_usage":2,"skill_times":1}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"山","location":[7,1],"direction":"Down","type":"Deploy"}]}

@@ -1,0 +1,1 @@
+{"stage_name":"act48side_02","minimum_required":"v4.0.0","doc":{"title":"【老干员】ME-2 - 命定的终点","details":"作者：自在道爷 json作者：西华灬时光\n已测试【测试练度：全员2603带模组】\n如果有问题请在评论区留言，我会尽力进行解答"},"opers":[{"name":"煌","skill":2,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"煌","location":[9,3],"direction":"Down","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

@@ -1,0 +1,1 @@
+{"stage_name":"act48side_02","minimum_required":"v4.0.0","doc":{"title":"ME-2 - 命定的终点","details":"攻略作者 https://space.bilibili.com/131454887"},"opers":[{"name":"逻各斯","skill":1,"skill_usage":0}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"逻各斯","location":[8,2],"direction":"Down","type":"Deploy"}]}

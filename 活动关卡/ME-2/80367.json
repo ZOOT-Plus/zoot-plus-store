@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act48side_02","actions":[{"type":"Deploy","name":"逻各斯","location":[8,2],"direction":"Down"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"ME-2 - 命定的终点","details":"ME-2 - 命定的终点"},"groups":[],"opers":[{"name":"逻各斯","skill":1,"skill_usage":0}]}

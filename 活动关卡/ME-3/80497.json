@@ -1,0 +1,1 @@
+{"stage_name":"act48side_03","minimum_required":"v4.0.0","doc":{"title":"ME-3 - 无解的谜题","details":"丰川祥子2603已测试"},"opers":[{"name":"香草"},{"name":"丰川祥子","skill":2,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"name":"丰川祥子","location":[3,5],"direction":"Up","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}

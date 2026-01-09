@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act48side_01","actions":[{"type":"Deploy","location":[4,5],"name":"山","direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"ME-1 - 工作与时日","details":"ME-1 - 工作与时日"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}]}

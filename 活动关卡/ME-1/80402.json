@@ -1,0 +1,1 @@
+{"stage_name":"act48side_01","minimum_required":"v4.0.0","doc":{"title":"ME-1 - 工作与时日","details":"作者：诗酒经年\n（手摆通过，作者MAA出bug了）"},"opers":[{"name":"乌尔比安","skill":2,"requirements":{"skill_level":10,"module":1}}],"groups":[],"actions":[{"name":"乌尔比安","location":[4,5],"direction":"Left","type":"Deploy"}],"version":3}

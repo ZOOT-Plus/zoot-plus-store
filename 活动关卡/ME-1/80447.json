@@ -1,0 +1,1 @@
+{"stage_name":"act48side_01","minimum_required":"v4.0.0","doc":{"title":"ME-1 - 工作与时日","details":"ME-1 - 工作与时日"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[3,5],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

@@ -1,0 +1,1 @@
+{"stage_name":"act48side_01","minimum_required":"v4.0.0","doc":{"title":"ME-1 - 工作与时日","details":"ME-1 - 工作与时日"},"opers":[{"name":"阿斯卡纶","skill":1,"requirements":{"skill_level":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"阿斯卡纶","location":[2,5],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
