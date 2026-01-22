@@ -1,0 +1,1 @@
+{"stage_name":"sub_03-1-1","minimum_required":"v4.0.0","doc":{"title":"第三章 二次呼吸 - S3-1 - 潜伏-1","details":"第三章 二次呼吸 - S3-1 - 潜伏-1"},"opers":[{"name":"乌尔比安","skill":2,"requirements":{"skill_level":10,"module":1}}],"groups":[],"actions":[{"name":"乌尔比安","location":[5,5],"direction":"Left","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}
