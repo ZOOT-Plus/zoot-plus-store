@@ -1,0 +1,1 @@
+{"stage_name":"act40side_03","minimum_required":"v4.0.0","doc":{"title":"OR-3 - 油泼扯面","details":"OR-3 - 油泼扯面"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[3,5],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}]}

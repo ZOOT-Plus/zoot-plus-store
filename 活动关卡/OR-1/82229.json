@@ -1,0 +1,1 @@
+{"stage_name":"act40side_01","minimum_required":"v4.0.0","doc":{"title":"OR-1 - 一清二白","details":"OR-1 - 一清二白"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[3,4],"direction":"Down","type":"Deploy"},{"type":"SkillDaemon"}]}

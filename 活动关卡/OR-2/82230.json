@@ -1,0 +1,1 @@
+{"stage_name":"act40side_02","minimum_required":"v4.0.0","doc":{"title":"OR-2 - 糖瓜粘","details":"OR-2 - 糖瓜粘"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[2,3],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}]}

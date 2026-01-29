@@ -1,0 +1,1 @@
+{"stage_name":"act40side_05","minimum_required":"v4.0.0","doc":{"title":"OR-5 - 雷公栗","details":"OR-5 - 雷公栗"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[7,3],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}]}
