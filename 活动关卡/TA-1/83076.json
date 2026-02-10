@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act49side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"阿斯卡纶","location":[4,4],"direction":"Up"},{"type":"SkillDaemon"}],"doc":{"title":"辞岁行 - TA-1-激石波","details":"辞岁行 - TA-1-激石波"},"groups":[],"opers":[{"name":"阿斯卡纶","skill":1,"skill_usage":0}]}

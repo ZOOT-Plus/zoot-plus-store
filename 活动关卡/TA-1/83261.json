@@ -1,0 +1,1 @@
+{"stage_name":"act49side_01","minimum_required":"v4.0.0","doc":{"title":"TA-1 - 激石波","details":"TA-1 - 激石波"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"elite":2,"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[5,4],"direction":"Up","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

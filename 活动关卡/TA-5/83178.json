@@ -1,0 +1,1 @@
+{"stage_name":"act49side_05","minimum_required":"v4.0.0","doc":{"title":"TA-5 - 双飞燕","details":"https://www.bilibili.com/video/BV1LWFmzGE3M/"},"opers":[{"name":"圣聆初雪","skill":2,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"圣聆初雪","location":[2,4],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

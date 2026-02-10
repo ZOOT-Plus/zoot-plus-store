@@ -1,0 +1,1 @@
+{"stage_name":"act49side_02","minimum_required":"v4.0.0","doc":{"title":"TA-2 - 大头鬼","details":"TA-2 - 大头鬼"},"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0,"requirements":{"elite":2,"level":90,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"乌尔比安","location":[2,3],"direction":"Right","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

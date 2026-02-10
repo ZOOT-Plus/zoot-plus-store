@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act49side_02","actions":[{"type":"Deploy","name":"娜仁图亚","direction":"Right","location":[4,2]},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"TA-2-大头鬼","details":"TA-2-大头鬼"},"groups":[],"opers":[{"skill_times":1,"name":"娜仁图亚","skill_usage":2,"skill":1}]}
