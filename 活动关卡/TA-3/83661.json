@@ -1,0 +1,1 @@
+{"stage_name":"act49side_03","minimum_required":"v4.0.0","doc":{"title":"TA-3 - 聚墨痕","details":"作者：Creeper19472"},"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"name":"维什戴尔","location":[4,3],"direction":"Right","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}
