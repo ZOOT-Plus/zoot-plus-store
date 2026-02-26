@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_05","actions":[{"type":"Deploy","name":"乌尔比安","location":[4,3],"direction":"Up","costs":24},{"type":"Deploy","name":"歌蕾蒂娅","location":[2,2],"direction":"Right"},{"type":"Deploy","name":"嘉维尔","location":[2,3],"direction":"Right"}],"doc":{"title":"VEC-05 - 一线胜机","details":"自用"},"groups":[],"opers":[]}
