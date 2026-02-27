@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_sp01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"孑","location":[4,3],"direction":"Left","kills":0},{"type":"Deploy","location":[4,3],"direction":"Left","name":"孑"}],"doc":{"title":"VEC-SP01 - 自有方圆","details":"仅适用1607，练度过高过低都可能翻车"},"groups":[],"opers":[{"name":"孑","skill":2,"skill_usage":0}]}

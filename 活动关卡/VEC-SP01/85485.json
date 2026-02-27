@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_sp01","actions":[{"type":"Deploy","name":"圣聆初雪","location":[6,3],"direction":"Left"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP01 - 自有方圆","details":"VEC-SP01 - 自有方圆"},"groups":[],"opers":[{"name":"圣聆初雪","skill":2,"skill_usage":0}]}

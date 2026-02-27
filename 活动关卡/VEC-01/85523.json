@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_01","actions":[{"type":"Deploy","name":"伊内丝","location":[4,5],"direction":"Right"},{"type":"Deploy","name":"圣聆初雪","location":[4,4],"direction":"Right"}],"doc":{"title":"VEC-01 - 此面向上","details":"VEC-01 - 此面向上"},"groups":[],"opers":[{"name":"伊内丝","skill":1,"skill_usage":0},{"name":"圣聆初雪","skill":2,"skill_usage":0}]}

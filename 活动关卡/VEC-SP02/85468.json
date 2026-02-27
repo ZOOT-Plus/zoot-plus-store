@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_sp02","actions":[{"type":"Deploy","name":"林","location":[3,2],"direction":"Down"},{"type":"Skill","name":"林","location":[3,2]},{"type":"SpeedUp"}],"doc":{"title":"VEC-SP02 - 物归原主","details":"VEC-SP02 - 物归原主"},"groups":[],"opers":[{"name":"林","skill_usage":0,"skill":1}]}
