@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_sp02","actions":[{"type":"Deploy","name":"林","direction":"Up","location":[3,2]},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP02 - 物归原主","details":"精一80能过"},"groups":[],"opers":[{"skill_usage":2,"skill_times":1,"name":"林","skill":1}]}
