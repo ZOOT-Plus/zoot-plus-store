@@ -1,0 +1,1 @@
+{"stage_name":"act2break_sp10","minimum_required":"v4.0.0","doc":{"title":"VEC-SP08 - 速递怪谈 异拉单人","details":"VEC-SP08 - 速递怪谈 异拉单人"},"opers":[{"name":"荒芜拉普兰德","skill":3,"skill_usage":1,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"荒芜拉普兰德","location":[6,3],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
