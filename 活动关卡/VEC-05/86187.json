@@ -1,0 +1,1 @@
+{"stage_name":"act1vecb_05","minimum_required":"v4.0.0","doc":{"title":"VEC-05 - 刻骨铭心","details":"VEC-05 - 刻骨铭心"},"opers":[{"name":"歌蕾蒂娅","skill":1,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"name":"歌蕾蒂娅","location":[8,3],"direction":"Left","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}
