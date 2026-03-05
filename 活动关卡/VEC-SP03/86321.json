@@ -1,0 +1,1 @@
+{"stage_name":"act2break_sp03","minimum_required":"v4.0.0","doc":{"title":"VEC-SP03 - 心中一泓","details":"黑键单人"},"opers":[{"name":"黑键","skill":3,"skill_usage":1,"requirements":{"level":80,"skill_level":7}}],"groups":[],"actions":[{"name":"黑键","location":[2,3],"direction":"Right","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}
