@@ -1,0 +1,1 @@
+{"stage_name":"sub_03-1-1","minimum_required":"v4.0.0","doc":{"title":"S3-1 斩熊单人","details":"S3-1 斩熊单人"},"opers":[{"name":"夜刀"},{"name":"斩业星熊","skill":1,"requirements":{"level":90,"skill_level":10,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"斩业星熊","location":[2,5],"direction":"Left","type":"Deploy"}],"version":3}

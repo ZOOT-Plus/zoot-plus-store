@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_sp03","actions":[{"type":"Deploy","name":"罗小黑","location":[4,2],"direction":"Left","costs":31},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP03 - 心中一泓","details":"VEC-SP03 - 心中一泓"},"groups":[],"opers":[{"skill_times":1,"name":"罗小黑","skill_usage":2,"skill":1}]}
