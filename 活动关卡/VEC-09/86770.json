@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_09","actions":[{"type":"Deploy","name":"圣聆初雪","direction":"Up","location":[5,4]},{"type":"Deploy","name":"苏苏洛","location":[4,6],"direction":"Up"}],"doc":{"title":"VEC-09 - 紧急逃生","details":"VEC-09 - 紧急逃生"},"groups":[],"opers":[{"name":"圣聆初雪","skill":2,"skill_usage":0},{"name":"苏苏洛","skill":2,"skill_usage":1}]}

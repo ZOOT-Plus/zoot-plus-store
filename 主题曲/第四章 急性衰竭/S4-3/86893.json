@@ -1,0 +1,1 @@
+{"stage_name":"sub_04-1-3","minimum_required":"v4.0.0","doc":{"title":"S4-3 大姨单人","details":"S4-3 大姨单人"},"opers":[{"name":"夜刀"},{"name":"娜仁图亚","skill":1,"skill_usage":2,"requirements":{"level":90,"skill_level":10,"module":1}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[4,4],"direction":"Right","type":"Deploy"}],"version":3}
