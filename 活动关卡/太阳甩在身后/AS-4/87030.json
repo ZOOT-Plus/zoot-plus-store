@@ -1,0 +1,1 @@
+{"stage_name":"act35side_04","minimum_required":"v4.0.0","doc":{"title":"太阳甩在身后 - AS-4 - 家传金拖鞋","details":"作者萨拉托加\n作业交流群群号216314927，可蹲作业，有问题进群找我，作业站消息没提醒看不到"},"opers":[{"name":"棘刺","skill":3,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"name":"棘刺","location":[7,1],"direction":"Left","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}

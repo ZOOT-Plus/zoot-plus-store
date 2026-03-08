@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","location":[3,5],"name":"凛御银灰","direction":"Right"},{"type":"Skill","name":"凛御银灰","location":[3,5],"costs":15},{"type":"Deploy","name":"圣聆初雪","location":[2,4],"direction":"Right"}],"doc":{"title":"VEC-01 - 此面朝上","details":"挂机自用"},"groups":[],"opers":[]}
