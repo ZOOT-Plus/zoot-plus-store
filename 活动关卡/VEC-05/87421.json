@@ -1,0 +1,1 @@
+{"stage_name":"act2break_05","minimum_required":"v4.0.0","doc":{"title":"VEC-05 - 止步即死 歌蒂单刷等级","details":"歌蒂带专三一技能Y模组，buff带减重"},"opers":[{"name":"歌蕾蒂娅","skill":1,"skill_usage":0,"requirements":{"module":2}}],"groups":[],"actions":[{"name":"歌蕾蒂娅","location":[1,3],"direction":"Right","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}

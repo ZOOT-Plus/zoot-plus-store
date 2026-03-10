@@ -1,0 +1,1 @@
+{"stage_name":"act20mini_01","minimum_required":"v4.0.0","doc":{"title":"CG-1 掌声之外","details":"任意挡二近卫或盾（第一次发有不行的地方见谅）"},"opers":[{"name":"斩业星熊","skill":2,"skill_usage":0}],"groups":[],"actions":[{"name":"斩业星熊","location":[4,3],"direction":"Down","type":"Deploy","costs":26},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"difficulty":3}

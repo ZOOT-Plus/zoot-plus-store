@@ -1,0 +1,1 @@
+{"stage_name":"act20mini_01","minimum_required":"v4.0.0","doc":{"title":"CG-1掌声之外","details":"cg-1,自用挂机"},"opers":[{"name":"山","skill":2,"skill_usage":2,"skill_times":1}],"groups":[],"actions":[{"name":"山","location":[4,3],"direction":"Right","type":"Deploy"},{"type":"SpeedUp"},{"type":"Skill","name":"山","location":[4,3]}],"version":3}
