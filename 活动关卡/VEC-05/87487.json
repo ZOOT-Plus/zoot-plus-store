@@ -1,0 +1,1 @@
+{"stage_name":"act2break_05","minimum_required":"v4.0.0","doc":{"title":"VEC-05 - 一线胜机","details":"VEC-05 - 一线胜机"},"opers":[{"name":"歌蕾蒂娅","skill":1,"requirements":{"level":66,"skill_level":10,"module":2}}],"groups":[],"actions":[{"name":"歌蕾蒂娅","location":[7,3],"direction":"Left","type":"Deploy"},{"type":"SpeedUp"}],"version":3}
