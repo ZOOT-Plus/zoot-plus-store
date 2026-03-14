@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act2break_09","actions":[{"type":"Deploy","name":"圣聆初雪","location":[4,4],"direction":"Right"},{"type":"Deploy","name":"Mon3tr","location":[4,6],"direction":"Up"}],"doc":{"title":"VEC-09 - 紧急逃生","details":"小恐龙自用"},"groups":[],"opers":[{"name":"圣聆初雪","skill":2,"skill_usage":0},{"name":"Mon3tr","skill":2,"skill_usage":0}]}
