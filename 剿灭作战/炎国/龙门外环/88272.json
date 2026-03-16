@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"camp_02","actions":[{"type":"Deploy","name":"圣聆初雪","location":[9,3],"direction":"Left"},{"type":"Deploy","name":"芙蓉","location":[10,3],"direction":"Left"}],"doc":{"title":"炎国 - 龙门外环 - 龙门外环","details":"圣聆初雪+芙蓉\n借助战挂机循环六次\n自用"},"groups":[],"opers":[{"name":"圣聆初雪","skill":2,"skill_usage":0},{"name":"芙蓉","skill":1,"skill_usage":0}]}
