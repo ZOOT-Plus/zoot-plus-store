@@ -1,0 +1,1 @@
+{"stage_name":"sub_02-01","minimum_required":"v4.0.0","doc":{"title":"第二章 异卵同生 - S2-1 - 迟缓-1","details":"第二章 异卵同生 - S2-1 - 迟缓-1"},"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":2,"skill_times":1,"requirements":{"skill_level":10}},{"name":"阿米娅"}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[8,1],"direction":"Down","type":"Deploy"}],"version":3}
