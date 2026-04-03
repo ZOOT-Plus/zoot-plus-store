@@ -1,0 +1,1 @@
+{"stage_name":"easy_09-06","minimum_required":"v4.0.0","doc":{"title":"第九章 风暴瞭望 - 9-7（简单） - 捉迷藏","details":"第九章 风暴瞭望 - 9-7（简单） - 捉迷藏"},"opers":[{"name":"阿米娅"},{"name":"阿斯卡纶"}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"阿斯卡纶","location":[5,2],"direction":"Right","type":"Deploy"}],"version":3}

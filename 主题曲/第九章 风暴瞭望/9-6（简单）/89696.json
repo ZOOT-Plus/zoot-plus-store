@@ -1,0 +1,1 @@
+{"stage_name":"easy_09-05","minimum_required":"v4.0.0","doc":{"title":"第九章 风暴瞭望 - 9-6（简单） - 深池","details":"第九章 风暴瞭望 - 9-6（简单） - 深池"},"opers":[{"name":"阿米娅"},{"name":"娜仁图亚"}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[2,5],"direction":"Up","type":"Deploy"},{"type":"Skill","name":"娜仁图亚"}],"version":3}

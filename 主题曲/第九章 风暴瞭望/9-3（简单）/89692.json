@@ -1,0 +1,1 @@
+{"stage_name":"easy_09-02","minimum_required":"v4.0.0","doc":{"title":"第九章 风暴瞭望 - 9-3（简单） - 牌局","details":"第九章 风暴瞭望 - 9-3（简单） - 牌局"},"opers":[{"name":"阿米娅","requirements":{"level":1}},{"name":"维什戴尔"}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"维什戴尔","location":[7,4],"direction":"Left","type":"Deploy"},{"type":"Skill","name":"维什戴尔"}],"version":3}

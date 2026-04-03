@@ -1,0 +1,1 @@
+{"stage_name":"easy_09-07","minimum_required":"v4.0.0","doc":{"title":"第九章 风暴瞭望 - 9-9（简单） - 无辜者","details":"第九章 风暴瞭望 - 9-9（简单） - 无辜者"},"opers":[{"name":"阿米娅"},{"name":"娜仁图亚"}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"娜仁图亚","location":[6,3],"direction":"Right","type":"Deploy"},{"type":"Skill","name":"娜仁图亚"}],"version":3}

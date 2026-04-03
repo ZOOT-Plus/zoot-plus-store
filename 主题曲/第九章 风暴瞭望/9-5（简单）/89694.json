@@ -1,0 +1,1 @@
+{"stage_name":"easy_09-04","minimum_required":"v4.0.0","doc":{"title":"第九章 风暴瞭望 - 9-5（简单） - 临界值","details":"第九章 风暴瞭望 - 9-5（简单） - 临界值"},"opers":[{"name":"阿米娅","requirements":{"level":1}},{"name":"维什戴尔"}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"维什戴尔","location":[8,4],"direction":"Left","type":"Deploy"},{"type":"Skill","name":"维什戴尔"}],"version":3}
