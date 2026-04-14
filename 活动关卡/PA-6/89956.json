@@ -1,0 +1,1 @@
+{"stage_name":"act51side_06","minimum_required":"v4.0.0","doc":{"title":"PA-6","details":"PA-6"},"opers":[{"name":"圣聆初雪","skill":2,"requirements":{"skill_level":10}},{"name":"德克萨斯","skill":1,"requirements":{"skill_level":7}}],"groups":[],"actions":[{"name":"圣聆初雪","location":[6,3],"direction":"Left","type":"Deploy"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"version":3}

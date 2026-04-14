@@ -1,0 +1,1 @@
+{"stage_name":"act51side_06","minimum_required":"v4.0.0","doc":{"title":"PA-6 - 单核","details":"PA-6 - 单核"},"opers":[{"name":"圣聆初雪","skill":2,"requirements":{"skill_level":10,"module":2}}],"groups":[],"actions":[{"type":"Skill","name":"凛冬","location":[5,3],"costs":25},{"name":"圣聆初雪","location":[6,3],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}

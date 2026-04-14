@@ -1,0 +1,1 @@
+{"stage_name":"act51side_tr01","minimum_required":"v4.0.0","doc":{"title":"PA-TR-1 - ","details":"maa会自动点对话，不过会卡在需要操作的地方，必须手动跟着指引操作一下，无其他任何操作\n别问我为啥不能自动操作"},"opers":[],"groups":[],"actions":[{"type":"SpeedUp"},{"type":"Output","costs":19},{"type":"Output","costs":30},{"type":"Output","costs":25},{"type":"Output","costs":83},{"type":"SkillDaemon"}],"version":3}
