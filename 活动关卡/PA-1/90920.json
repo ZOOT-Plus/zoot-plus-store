@@ -1,0 +1,1 @@
+{"stage_name":"act51side_01","minimum_required":"v6.0.0","doc":{"title":"PA-1 - “卡托加区欢迎你”","details":"PA-1 - “卡托加区欢迎你”"},"opers":[{"name":"山","skill":2,"skill_usage":2,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"山","location":[5,3],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
