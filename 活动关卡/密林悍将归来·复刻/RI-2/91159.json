@@ -1,0 +1,1 @@
+{"stage_name":"act12d0_02","minimum_required":"v6.0.0","doc":{"title":"密林悍将归来·复刻 - RI-2 - 粗细有别","details":"密林悍将归来·复刻 - RI-2 - 粗细有别"},"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"维什戴尔","location":[9,4],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
