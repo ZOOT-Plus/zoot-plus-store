@@ -1,0 +1,1 @@
+{"stage_name":"a001_ex05","minimum_required":"v6.0.0","doc":{"title":"骑兵与猎人·复刻 - GT-HX-2 - 关山飞渡","details":"骑兵与猎人·复刻 - GT-HX-2 - 关山飞渡"},"opers":[{"name":"圣聆初雪","skill":2,"requirements":{"skill_level":10,"module":2}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"圣聆初雪","location":[5,4],"direction":"Left","type":"Deploy"}],"version":3,"difficulty":3}
