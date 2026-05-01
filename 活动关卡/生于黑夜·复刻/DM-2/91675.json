@@ -1,0 +1,1 @@
+{"stage_name":"act9d0_02","minimum_required":"v6.0.0","doc":{"title":"生于黑夜·复刻 - DM-2 - 偶然","details":"维什戴尔练度为290，技能无需专精，单核。"},"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1,"requirements":{"skill_level":7}}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"维什戴尔","location":[4,4],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}],"version":3}
