@@ -1,0 +1,1 @@
+{"stage_name":"a001_01","minimum_required":"v6.0.0","doc":{"title":"骑兵与猎人·复刻 - GT-1 - 日正当中_test_","details":"孙笑川"},"opers":[{"name":"阿斯卡纶","skill":2,"requirements":{"skill_level":10}}],"groups":[],"actions":[{"type":"SkillDaemon"}],"version":3}
