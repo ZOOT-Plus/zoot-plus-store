@@ -1,0 +1,1 @@
+{"minimum_required":"v6.0.0","stage_name":"act1multi_tr02","actions":[{"type":"Deploy","location":[5,4],"name":"克洛丝","direction":"Right","costs":46},{"type":"SpeedUp"}],"doc":{"title":"足球挂机","details":"足球挂机"},"groups":[],"opers":[{"name":"克洛丝","skill":1,"skill_usage":0}]}
