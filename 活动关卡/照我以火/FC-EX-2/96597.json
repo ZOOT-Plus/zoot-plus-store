@@ -1,0 +1,1 @@
+{"stage_name":"","minimum_required":"v6.0.0","doc":{"title":"涤墨作战200挂机","details":"涤墨作战200挂机"},"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1},{"name":"可露希尔","skill":1,"skill_usage":0}],"groups":[],"actions":[{"type":"SpeedUp"},{"name":"维什戴尔","location":[8,3],"direction":"Left","type":"Deploy"},{"type":"SkillDaemon"}]}
